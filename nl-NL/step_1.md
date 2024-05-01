@@ -7,7 +7,7 @@ line_numbers: false
 
 <section>
     <blockquote>
-        <p>"Oceans of emotion can be transmitted through an emoji sequence"</p>
+        <p>"Oceanen van emotie kunnen worden overgedragen via een emoji-reeks"</p>
         
         <cite>- Jenna Wortham.</cite>
     </blockquote>
@@ -15,4 +15,4 @@ line_numbers: false
 
 \--- /code ---
 
-![A full width quote and cite example.](images/blockquote.png)
+![Een citaat over de volledige breedte en een vermelding voorbeeld.](images/blockquote.png)
