@@ -5,9 +5,9 @@ filename: index.html
 line_numbers: false
 --------------------------------------------------------
 
-<section>
+<section class="wrap">
     <blockquote>
-        <p>"Oceans of emotion can be transmitted through an emoji sequence"</p>
+        <p>« Des océans d'émotions peuvent être transmis par une séquence d'emoji »</p>
         
         <cite>- Jenna Wortham.</cite>
     </blockquote>
@@ -15,4 +15,4 @@ line_numbers: false
 
 \--- /code ---
 
-![A full width quote and cite example.](images/blockquote.png)
+![Un exemple de citation et de référence sur toute la largeur.](images/blockquote.png)
