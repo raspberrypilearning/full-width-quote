@@ -5,7 +5,7 @@ filename: index.html
 line_numbers: false
 --------------------------------------------------------
 
-<section>
+<section class="wrap">
     <blockquote>
         <p>"Oceanen van emotie kunnen worden overgedragen via een emoji-reeks"</p>
         
