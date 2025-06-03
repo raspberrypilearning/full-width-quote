@@ -7,12 +7,12 @@ line_numbers: false
 
 <section class="wrap">
     <blockquote>
-        <p>"Oceans of emotion can be transmitted through an emoji sequence"</p>
+        <p>“表情符号序列可以传达无限情感”</p>
         
-        <cite>- Jenna Wortham.</cite>
+        <cite>- 詹娜·沃瑟姆。</cite>
     </blockquote>
 </section>
 
 \--- /code ---
 
-![A full width quote and cite example.](images/blockquote.png)
+![全宽引用和引用示例。](images/blockquote.png)
